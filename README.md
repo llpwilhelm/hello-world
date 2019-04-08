@@ -1,2 +1,3 @@
 # hello-world
-trying out this shit
+tryin' out this shit
+intersting..
